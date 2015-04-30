@@ -28,6 +28,8 @@ gem 'devise-bootstrap-views'
 gem "therubyracer"
 gem "less-rails"
 gem "twitter-bootstrap-rails"
+gem "rails_admin"
+gem "cancan"
 
 group :development, :test do
   gem 'byebug'
